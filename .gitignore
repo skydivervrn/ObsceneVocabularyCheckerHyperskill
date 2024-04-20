@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Obscene Vocabulary Checker/*
+!/Obscene Vocabulary Checker/task/
+/Obscene Vocabulary Checker/task/*
+!/Obscene Vocabulary Checker/task/main.go
